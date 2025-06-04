@@ -15,5 +15,6 @@ This project demonstrates how to use [OWASP Dependency-Check](https://owasp.org/
 `mvn verify` or `mvn org.owasp:dependency-check-maven:check`
 
 3. **Suppressing False Positives**
+
 Suppressions are configured in suppression.xml.
 Update this file to add or remove suppressions as needed.
